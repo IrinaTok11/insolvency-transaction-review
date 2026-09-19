@@ -1,0 +1,4 @@
+﻿file,rows_expected,total_in_expected,total_out_expected,closing_balance_expected,bank,source_file,rows_actual,total_in_actual,total_out_actual,closing_balance_actual,_merge,rows_ok,total_in_ok,total_out_ok,closing_balance_ok,status
+barclays,135,68000.0,40529.15,36920.85,Barclays,Barclays_90311276_export.csv,135,68000.0,40529.15,36920.85,both,True,True,True,True,PASS
+lloyds,1830,3859627.95,3888476.9,155471.6,Lloyds,Lloyds_41283719_Oct24-Mar26.csv,1830,3859627.95,3888476.9,155471.6,both,True,True,True,True,PASS
+natwest,274,952000.0,872357.56,122452.54,NatWest,NatWest_77120931_statement.xlsx,274,952000.0,872357.56,122452.54,both,True,True,True,True,PASS
