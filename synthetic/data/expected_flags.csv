@@ -1,0 +1,22 @@
+flag_id,rule,account,date,counterparty,amount,reason
+F08,R03,Lloyds,2025-08-22,Ellery Legal LLP,-14750.0,"High-value transaction above £10,000"
+F01,R01,Lloyds,2025-10-13,Smith Consulting Ltd,-18500.0,Payment to known connected party: Smith Consulting Ltd (Connected company)
+F06,R10,NatWest,2025-11-10,John Smith,-30000.0,Description indicates loan/dividend/director payment
+F02,R01,Lloyds,2025-12-05,Smith Consulting Ltd,-24000.0,Payment to known connected party: Smith Consulting Ltd (Connected company)
+F16,R05,Lloyds,2025-12-12,Vantage Property Services Ltd,-25000.0,"Round-amount payment (£25,000); new counterparty within analysis period; first payment £25,000"
+F07,R10,Lloyds,2025-12-29,John Smith,-40000.0,Description indicates loan/dividend/director payment
+F18,R06,Lloyds,2026-01-05,Delta Asset Partners LLP,-12400.0,"New counterparty within analysis period; first payment £12,400"
+F04,R01,NatWest,2026-01-09,Jane Smith,-15000.0,Payment to known connected party: Jane Smith (Director's relative)
+F09,R03,Lloyds,2026-01-19,Sable Marketing Ltd,-21300.0,"High-value transaction above £10,000"
+F17,R05,Lloyds,2026-01-22,Vantage Property Services Ltd,-30000.0,"Round-amount payment (£30,000)"
+F03,R01,Lloyds,2026-01-28,Smith Consulting Ltd,-62900.0,Payment to known connected party: Smith Consulting Ltd (Connected company)
+F19,R09,Lloyds,2026-02-02,Unknown account,-20000.0,Transfer to unidentified account 40-11-07 55820019
+F05,R01,Lloyds,2026-02-05,Northbridge Holdings Ltd,-66000.0,Payment to known connected party: Northbridge Holdings Ltd (Parent company)
+F10,R04,Barclays,2026-02-10,CASH,-1500.0,"Cash withdrawal above £1,000; repeated cash withdrawals in 30 days"
+F11,R04,Barclays,2026-02-16,CASH,-3000.0,"Cash withdrawal above £1,000; repeated cash withdrawals in 30 days"
+F12,R04,Barclays,2026-02-17,CASH,-3000.0,"Cash withdrawal above £1,000; repeated cash withdrawals in 30 days"
+F13,R04,Barclays,2026-02-20,CASH,-3000.0,"Cash withdrawal above £1,000; repeated cash withdrawals in 30 days"
+F14,R04,Barclays,2026-02-24,CASH,-2000.0,"Cash withdrawal above £1,000; repeated cash withdrawals in 30 days"
+F15,R04,Barclays,2026-02-27,CASH,-1500.0,"Cash withdrawal above £1,000; repeated cash withdrawals in 30 days"
+F20,R12,Barclays,2026-03-16,Amazon Business,-412.6,Post-appointment transaction - verify authority and purpose
+F21,R12,Lloyds,2026-03-18,Smith Consulting Ltd,-4000.0,Post-appointment transaction - verify authority and purpose; payment to known connected party
